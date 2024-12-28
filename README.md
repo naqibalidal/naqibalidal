@@ -11,11 +11,12 @@ Master's student at Dalhousie University with experience as an OpenShift Adminis
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![OpenStack Badge](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔧 Technologies and Tools
 
-- **Cloud**: AWS, GCP
+- **Cloud**: AWS, GCP, Openstack
 - **Containerization**: Openshift, Docker, Kubernetes
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Configuration Management**: Cloud formation
